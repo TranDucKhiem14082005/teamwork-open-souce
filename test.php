@@ -8,6 +8,7 @@
 <body>
     <?php
         echo "hello everyone, and wellcome to the respon";
+        echo "tranngochung";
     ?>
 </body>
 </html>
